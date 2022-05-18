@@ -17,7 +17,7 @@ const MakeAppoinment = () => {
 
             </div>
             <div className='flex-1'>
-                <h3 className='text-xl text-primary font-bolt'>Appoinment</h3>
+                <h3 className='text-xl text-primary font-bold'>Appoinment</h3>
                 <h2 className='text-3xl text-white'>Make an Appoinment Today</h2>
                 <p className='text-white'>The new service was designed as a more comprehensive first port of call to help patients to book family doctor appointments or to call for an ambulance.
                     The new service was designed as a more comprehensive first port of call to help patients to book family doctor appointments or to call for an ambulance.
