@@ -27,8 +27,8 @@ const Footer = () => {
 
 
             </div>
-            <div className="my-10 text-center">
-                <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
+            <div className="my-12 text-center">
+                <p className="p-5">Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
             </div>
 
         </footer>
